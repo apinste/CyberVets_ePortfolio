@@ -15,4 +15,4 @@ To know more about the CMS CyberVets Program:
 
 [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program)
 
-[View course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
+[View course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf)
