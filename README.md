@@ -9,7 +9,7 @@ I am a military medic, finishing my graduate degree in Cybersecurity Management 
 
 * Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal/wiki) for all contributions on Escalate Missions.
 
-* To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive.
+* To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive. To the CMS staff and CyberVets graduates for the inspiration and motivation to push through.
 
 * To know more about the CMS CyberVets Program: [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) or [view course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
 
