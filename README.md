@@ -15,9 +15,9 @@ I
 
 ## Credits
 
-* Thanks to [Chase](https://github.com/ChaseBCMS/CybervetsInfo/wiki) for all contributions on Escalate Missions.
+* Thanks to [Chase](https://github.com/ChaseBCMS/CybervetsInfo/wiki), a Cohort 6 member, for all contributions on Escalate Missions.
 
-* Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal/wiki) for all contributions on Escalate Missions.
+* Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal/wiki), a Cohort 6 member, for all contributions on Escalate Missions.
 
 * To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive. To the CMS staff and CyberVets graduates for the inspiration and motivation to push through.
 
