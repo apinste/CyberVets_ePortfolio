@@ -6,7 +6,7 @@
 
 # Welcome to my Cybervets ePortfolio!
 
-Hello! My name is Arlene. This ePortfolio is a window to my CyberVets journey. The CyberVets program is a rotation at Center for Medicaid and Medicare Services (CMS) where we engage in both authentic problem-based and “on the job” cybersecurity training, learning the skills required for data and network security. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
+Hello! My name is Arlene and I am a CyberVet Cohort 6 member. This ePortfolio is a window to my CyberVets journey. The CyberVets program is a rotation at Center for Medicaid and Medicare Services (CMS) where we engage in both authentic problem-based and “on the job” cybersecurity training, learning the skills required for data and network security. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
 
 ## Wiki
 
