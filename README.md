@@ -11,4 +11,4 @@ Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal) for all the contr
 
 To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive.
 
-To know more about the CMS CyberVets Program: [Course outline](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
+To know more about the CMS CyberVets Program: [View course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
