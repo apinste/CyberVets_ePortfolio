@@ -1,3 +1,9 @@
+##
+
+<p align="center">
+<img src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/C6%20banner%20white.png?raw=true" width="350"/>
+</p>
+
 # Welcome to my Cybervets ePortfolio!
 
 Hello! My name is Arlene. This ePortfolio is a window to my CyberVets journey. The CyberVets program is a rotation at Center for Medicaid and Medicare Services (CMS) where we engage in both authentic problem-based and “on the job” cybersecurity training, learning the skills required for data and network security. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
@@ -33,12 +39,6 @@ If you are up for a discussion about Escalate Missions or just interested to get
 * To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive. To the CMS staff and CyberVets graduates for the inspiration and motivation to push through.
 
 * To know more about the CMS CyberVets Program: [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) or [view course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
-
-##
-
-<p align="center">
-<img src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/C6%20banner%20white.png?raw=true" width="350"/>
-</p>
 
 ##
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
