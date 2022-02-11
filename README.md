@@ -2,6 +2,13 @@
 
 This ePortfolio is a window to my CyberVets journey. The CyberVets program is a rotation at Center for Medicaid and Medicare Services (CMS) where we engage in both authentic problem-based and “on the job” cybersecurity training, learning the skills required for data and network security. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
 
+## Wiki
+
+This is my [home page](https://github.com/apinste/CyberVets_ePortfolio/wiki) where you can view links to my:
+* [Resume](https://github.com/apinste/CyberVets_ePortfolio/wiki/Resume) 
+* [LinkedIn Page](https://www.linkedin.com/in/arlene-pinpin-stevens/)
+* [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta)
+
 ## Projects
 
 The [projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta) are divided in 4 categories namely:
@@ -12,6 +19,10 @@ The [projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=bet
 
 I am using the Beta version of Projects on Github. I set the view to "Board" so that I am able to move the entries like that in a Kanban board. The word Kanban is derived from a Japanese word that means "visual signal." This is a perfect tool for the CyberVets team, and all others who are interested in my work, to stay-up-to date with my progress.
 I 
+
+## Discussion Page
+
+If you are up for a discussion about Escalate Missions or just interested to get a sneak peak of one of the exciting things we do in CyberVets, visit the [Discussions Page](https://github.com/apinste/CyberVets_ePortfolio/discussions).
 
 ## Credits
 
