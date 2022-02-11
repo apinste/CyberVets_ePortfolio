@@ -5,9 +5,9 @@ I am a military medic, finishing my graduate degree in Cybersecurity Management 
 
 ## Credits
 
-* Thanks to [Chase](https://github.com/ChaseBCMS/CybervetsInfo/wiki) for all the contribution on Escalate Missions.
+* Thanks to [Chase](https://github.com/ChaseBCMS/CybervetsInfo/wiki) for all contributions on Escalate Missions.
 
-* Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal/wiki) for all the contribution on Escalate Missions.
+* Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal/wiki) for all contributions on Escalate Missions.
 
 * To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive.
 
