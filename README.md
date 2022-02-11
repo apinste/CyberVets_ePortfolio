@@ -34,6 +34,8 @@ If you are up for a discussion about Escalate Missions or just interested to get
 
 * To know more about the CMS CyberVets Program: [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) or [view course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
 
+##
+
 <p align="center">
 <img src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/C6%20banner%20zoom.png?raw=true" width="350"/>
 </p>
