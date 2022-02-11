@@ -22,7 +22,7 @@ I
 
 ## Discussion Page
 
-If you are up for a discussion about Escalate Missions or just interested to get a sneak peak of one of the exciting things we do in CyberVets, visit the [Discussions Page](https://github.com/apinste/CyberVets_ePortfolio/discussions).
+If you are up for a discussion about Escalate Missions or just interested to get a sneak peak of one of the exciting things we do in CyberVets, visit the [Discussions Page](https://github.com/apinste/CyberVets_ePortfolio/discussions). [Escalate](https://escalate.today/) is a gamified cybersecurity ecosystem developed and utilized by DoD and intelligence personnel. Each Escalate mission allows us to hack through real-life scenarios with a community of professionals and mentors.
 
 ## Credits
 
