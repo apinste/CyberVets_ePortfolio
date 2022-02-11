@@ -37,7 +37,7 @@ If you are up for a discussion about Escalate Missions or just interested to get
 ##
 
 <p align="center">
-<img src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/C6%20banner%20zoom.png?raw=true" width="350"/>
+<img src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/C6%20banner%20white.png?raw=true" width="350"/>
 </p>
 
 ##
