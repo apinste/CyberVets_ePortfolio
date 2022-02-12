@@ -24,7 +24,6 @@ The [projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=bet
 * [Technical Skills](https://github.com/users/apinste/projects/8) - Here are key takeaways from each course. More details about Escalate Challenges are posted on the discussions page to allow interaction with others and help me improve my strategies.
 
 I am using the Beta version of Projects on Github. I set the view to "Board" so that I am able to move the entries like that in a Kanban board. The word Kanban is derived from a Japanese word that means "visual signal." This is a perfect tool for the CyberVets team, and all others who are interested in my work, to stay-up-to date with my progress.
-I 
 
 ## Discussion Page
 
