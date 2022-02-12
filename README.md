@@ -15,6 +15,8 @@ This is my [home page](https://github.com/apinste/CyberVets_ePortfolio/wiki) whe
 * [LinkedIn Page](https://www.linkedin.com/in/arlene-pinpin-stevens/)
 * [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta)
 
+On the right side bar, you can view the drop down menu for "Pages" to select a subtopic on my self introduction and my resume. No need to scroll through a long page. You can easily navigate the sections through this feature.
+
 ## Projects
 
 The [projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta) are divided in 4 categories namely:
