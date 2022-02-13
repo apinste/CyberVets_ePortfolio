@@ -6,7 +6,7 @@
 
 # Welcome to my Cybervets ePortfolio!
 
-Hello! My name is Arlene and I am a CyberVet Cohort 6 member. This ePortfolio is a window to my CyberVets journey. The CyberVets program is a rotation at Center for Medicaid and Medicare Services (CMS) where we engage in both authentic problem-based and “on the job” cybersecurity training, learning the skills required for data and network security. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
+Hello! My name is Arlene and I am a CMS CyberVets intern. This ePortfolio is a window to my CyberVets journey. The CyberVets program is a rotation at Center for Medicaid and Medicare Services (CMS) where we engage in both authentic problem-based and “on the job” cybersecurity training, learning the skills required for data and network security. The program begins with a solid foundation in networking fundamentals and network security essentials; and then progresses into more advanced areas such as reverse engineering, threat management, policy, and compliance management.
 
 ## Wiki
 
@@ -19,9 +19,9 @@ On the right side bar, you can view the drop down menu for "Pages" to select a s
 
 ## Projects
 
-The [projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta) are divided in 4 categories namely:
+The [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta) are divided in 4 categories namely:
 * [Achievements](https://github.com/users/apinste/projects/6) - This is my CyberVets ‘brag board’ that includes the following and more: Leaderboard status, Competitions participated in, Challenges participated in, External presentations and/or publication.
-* [Credentials](https://github.com/users/apinste/projects/5) - I will use this section to record all the credentials that I earn during the CyberVet Program. I will also include current credentials related to Cybersecurity and leadership.
+* [Credentials](https://github.com/users/apinste/projects/5) - I will use this section to record all the credentials that I earn during the CMS CyberVets Program. I will also include current credentials related to Cybersecurity and leadership.
 * [Civilian Workplace Competencies](https://github.com/users/apinste/projects/7) - CyberVets is unique in that it include soft skills embedded into its core content design and reinforced in specialized seminars. Competencies are drawn from the NIST NICE Workforce Competencies. Here's where I will document events attended and lessons learned.
 * [Technical Skills](https://github.com/users/apinste/projects/8) - Here are key takeaways from each course. More details about Escalate Challenges are posted on the discussions page to allow interaction with others and help me improve my strategies.
 
