@@ -31,6 +31,8 @@ I am using the Beta version of Projects on Github. I set the view to "Board" so 
 
 If you are up for a discussion about Escalate Missions or just interested to get a sneak peak of one of the exciting things we do in CyberVets, visit the [Discussions Page](https://github.com/apinste/CyberVets_ePortfolio/discussions). What is [Escalate](https://escalate.today/)? It is a gamified cybersecurity ecosystem developed and utilized by DoD and intelligence personnel. Each Escalate mission allows us to hack through real-life scenarios with a community of professionals and mentors.
 
+<img align="center" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/discussion%20page.png" width="40%">
+
 ## Credits
 
 * Thanks to [Chase](https://github.com/ChaseBCMS/CybervetsInfo/wiki), a Cohort 6 member, for all contributions on Escalate Missions.
