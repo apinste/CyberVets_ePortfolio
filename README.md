@@ -15,6 +15,7 @@ This is my [home page](https://github.com/apinste/CyberVets_ePortfolio/wiki) whe
 * [LinkedIn Page](https://www.linkedin.com/in/arlene-pinpin-stevens/)
 * [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta)
 
+<img align="right" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/drop%20down%20pages.png" width="10%">
 On the right side bar, you can view the drop down menu for "Pages" to select a subtopic on my self introduction and my resume. No need to scroll through a long page. You can easily navigate the sections through this feature.
 
 ## Projects
