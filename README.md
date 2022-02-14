@@ -12,7 +12,7 @@ Hello! My name is Arlene and I am a CMS CyberVets intern. This ePortfolio is a w
 
 This is my [home page](https://github.com/apinste/CyberVets_ePortfolio/wiki) where you can view links to my:
 * [Resume](https://github.com/apinste/CyberVets_ePortfolio/wiki/Resume) 
-* [LinkedIn Page](https://www.linkedin.com/in/arlene-pinpin-stevens/) <img align="right" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/drop%20down%20pages.png" width="30%">
+* [LinkedIn Page](https://www.linkedin.com/in/arlene-pinpin-stevens/) <img align="right" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/drop%20down%20pages.png" width="25%">
 * [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta) 
 
 On the right side bar, you can view the drop down menu for "Pages" to select a subtopic on my self introduction and my resume. No need to scroll through a long page. You can easily navigate the sections through this feature.
