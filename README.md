@@ -28,10 +28,8 @@ The [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=bet
 I am using the Beta version of Projects on Github. I set the view to "Board" so that I am able to move the entries like that in a Kanban board. The word Kanban is derived from a Japanese word that means "visual signal." This is a perfect tool for the CyberVets team, and all others who are interested in my work, to stay-up-to date with my projects, competencies, credentials, and achievements.
 
 ## Discussion Page
-
+<img align="left" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/discussion%20page.png" width="20%">
 If you are up for a discussion about Escalate Missions or just interested to get a sneak peak of one of the exciting things we do in CyberVets, visit the [Discussions Page](https://github.com/apinste/CyberVets_ePortfolio/discussions). What is [Escalate](https://escalate.today/)? It is a gamified cybersecurity ecosystem developed and utilized by DoD and intelligence personnel. Each Escalate mission allows us to hack through real-life scenarios with a community of professionals and mentors.
-
-<img align="center" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/discussion%20page.png" width="40%">
 
 ## Credits
 
