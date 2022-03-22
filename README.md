@@ -40,7 +40,7 @@ If you are up for a discussion about Escalate Missions or just interested to get
 
 * Thanks to [Matt](https://github.com/carmanm/CyberVets-Journal/wiki), a Cohort 6 member, for all contributions on Escalate Missions.
 
-* To our CyberVets mentors: JT, Chad, Dr KG, and Dr Gallagher for giving us the opportunity to learn and thrive. To the CMS staff and CyberVets graduates for the inspiration and motivation to push through.
+* To our CyberVets mentors: JT, Chad, Dr KG, JC, Aaron and Dr Gallagher for giving us the opportunity to learn and thrive. To the CMS leadership and staff as well as the CyberVets graduates for the inspiration and motivation to push through.
 
 * To know more about the CMS CyberVets Program: [Visit the CMS CyberVets Program page](https://www.cms.gov/about-cms/careers-cms/cms-cybervets-program) or [view course outline here](https://www.cms.gov/files/document/cms-cybervet-course-outline.pdf).
 
