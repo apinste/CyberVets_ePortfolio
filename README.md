@@ -14,6 +14,7 @@ This is my [home page](https://github.com/apinste/CyberVets_ePortfolio/wiki) whe
 * [Resume](https://github.com/apinste/CyberVets_ePortfolio/wiki/My-Resume) 
 * [LinkedIn Page](https://www.linkedin.com/in/arlene-pinpin-stevens/) 
 * [Projects](https://github.com/apinste/CyberVets_ePortfolio/projects?type=beta) <img align="right" src="https://github.com/apinste/CyberVets_ePortfolio/blob/main/wiki_images/drop%20down%20pages.png" width="20%">
+.. and additional links and resources:
 * [CyberVets Tactics (new!)](https://github.com/apinste/CyberVets_ePortfolio/wiki/CyberVets-Tactics)
 * [NICE Framework: Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/workroles?name=All&id=PR-CDA-001)
 
